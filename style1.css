@@ -1,0 +1,32 @@
+a {
+	color: blue;
+	font-size: 100px;
+
+}
+
+.A{
+	background:orange;
+}
+
+.B {
+	color: pink;
+	background:grey;
+	width: 40%;
+	height: 100px;
+	vertical-align: top;
+	display: inline-block;																																																																																																									 	 
+}
+.C {
+	color: pink;
+	background:green;
+	width: 40%;
+	height: 100px;
+	
+	display: inline-block;																																																																																																									 	 
+}
+
+.container{
+	text-align: center;
+}
+
+	

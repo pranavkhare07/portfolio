@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+}
+
+
+body{
+	margin: 0px;
+}
+.A{
+	background:linear-gradient(45deg, #1D6AEF, #19CBFB);
+	height: 200px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 40px;
+	color: white;
+	
+	text-align: center;
+	}
+
+.B {
+	padding: 35px;																																																																																																									 	 
+}
+.a {
+	text-align: center;
+	font-size: 15px;
+	display: inline-block;
+																																																																																																										 	 
+}
+
+.container{
+	text-align: center;
+}
+
+#a1{
+	margin-right: 40px;
+}
+
+#a3{
+	margin-left: 40px;
+}
