@@ -12,7 +12,7 @@ body{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 45px;
 	color: white;
-	
+	margin-bottom: 50px;
 	text-align: center;
 	}
 
@@ -47,10 +47,26 @@ body{
 
 #pro {
 	width: 90%;
-
+	text-align: center;
+	margin: 0 auto;
 }
 
-.p1 {
-	width: 50px;
-	height: 100px;
+.p1{
+	width: 200px;
+	height: 200px;
+	margin-right: 60px;
+	display: inline-block;
 }
+
+.project-img{
+	width: 100%;
+}
+
+#last{
+	margin-right: 0;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+
